@@ -1,4 +1,8 @@
-![](ui_snapshot.jpg)
+<img width="898" alt="UI_snapshot" src="https://github.com/Sruthi-s2/Sports-Persons-Classification/assets/94535919/a1f829b5-989b-4d30-a0ce-10ec4d4315ba">
+
+
+
+
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
 1) Maria Sharapova
@@ -24,4 +28,4 @@ Technologies used in this project,
 7. HTML/CSS/Javascript for UI
 
 
-Here is the video playlist for entire project: https://www.youtube.com/playlist?list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc
+
